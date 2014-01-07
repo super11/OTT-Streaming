@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1385050388000 3673 a8cef0c84a2d6f81459bd7e62b594adfa612679d /Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegLibrary/src/com/appunite/ffmpeg/ViewCompat.java
+1385050388000 1014 86f5134a1f940a80de1cf93e8e1705407ef272c4 /Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegLibrary/src/com/appunite/ffmpeg/FFmpegListener.java
+1385050388000 9903 62565cae986652dc8909264af5d6efd304058903 /Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegLibrary/src/com/appunite/ffmpeg/FFmpegPlayer.java
+1385050388000 5931 48d08f5a58fa73ac2ec15981dae0053a98ee1aa2 /Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegLibrary/src/com/appunite/ffmpeg/SeekerView.java
+1385050388000 1349 6aca2dc0129577960e6a92d15abc7bc493b3f44d /Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegLibrary/src/com/appunite/ffmpeg/FpsCounter.java
+1385050388000 1014 ab68e91a82272325337f00174134d241394f4fc6 /Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegLibrary/src/com/appunite/ffmpeg/NotPlayingException.java
+1385050388000 745 5f7d0ca02abc15e5858e3d883f29d14e77bceaac /Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegLibrary/src/com/appunite/ffmpeg/FFmpegDisplay.java
+1385050388000 2499 7c38d90304c357ae99d3bac7bfd148c959673cec /Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegLibrary/src/com/appunite/ffmpeg/FFmpegStreamInfo.java
+1385050388000 1850 f38fba4a338c0fa3ac6723b9fc7933d96a0647c3 /Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegLibrary/src/com/appunite/ffmpeg/JniReader.java
+1385050388000 765 899161a59a083524f4b39aa405942a869de9dad3 /Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegLibrary/src/com/appunite/ffmpeg/NativeTester.java
+1385050388000 2190 7c329157490337170ba534c6c5fac543093f7ec3 /Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegLibrary/src/com/appunite/ffmpeg/FFmpegSurfaceView.java
+1385050388000 861 4bd43eea6dcb88de25d442fe18043ad39527102d /Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegLibrary/src/com/appunite/ffmpeg/FFmpegError.java

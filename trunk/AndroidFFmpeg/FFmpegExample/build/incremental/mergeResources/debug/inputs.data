@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1385050388000 2574 7cbb0a80689da95c9758ccbb9b8632edc6630476 /Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/res/drawable-mdpi/ic_launcher.png
+1385050388000 4147 91c0eed42bb6ffbb3e720f4309d06edaa5ab81b1 /Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/res/drawable-hdpi/ic_launcher.png
+1385050388000 696 f8e2999e1fbde9f7086c97d33df8c97fba03245a /Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/res/layout/main_list_item.xml
+1385050388000 75 eb7d6dbac030d7d0142f2054a376ad047382550e /Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/res/menu/main_activity.xml
+1385227853000 1959 e7e37af69b4091bd864f4eeb2cf18b4bf7f50fc0 /Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/res/layout/video_surfaceview.xml
+1386517481000 237 1ad53bb4026b456fd0c79ec3454637fcc3943cac /Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/res/layout/default_player.xml
+1387390067000 2211 b4cf4a6782873029ab41a03c71633971d1343471 /Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/res/values/strings.xml
+1385050388000 220 1d3207578c9e705cf2e317e612f0d35ee23bcc28 /Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/res/values/constans.xml
+1385050388000 1723 dab9122f41b8f635738ab44b288f12412bbdf3ce /Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/res/drawable-ldpi/ic_launcher.png
+1387389616000 2142 7870175f624770f5b4a4161011e34abca364d636 /Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/res/layout/open_video.xml
+1385050388000 498 d7018eaf90b5910e7dddd872b1b4746823b2d463 /Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/res/layout/main_activity.xml
+1386168538000 901 a996f3a4abf8839cc3ecbcf73286b1cec2f2c7d7 /Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/build/exploded-bundles/AndroidFFmpegFFmpegLibraryUnspecified.aar/res/values/values.xml

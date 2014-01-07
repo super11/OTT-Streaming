@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegLibrary/res" >
+            <file
+                path="/Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegLibrary/res/values/attrs.xml"
+                qualifiers="" >
+                <declare-styleable name="SeekerView" >
+                    <attr
+                        name="borderColor"
+                        format="color" />
+                    <attr
+                        name="borderWidth"
+                        format="dimension" />
+                    <attr
+                        name="borderPadding"
+                        format="dimension" />
+                    <attr
+                        name="barColor"
+                        format="color" />
+                    <attr
+                        name="barMinHeight"
+                        format="dimension" />
+                    <attr
+                        name="barMinWidth"
+                        format="dimension" />
+                    <attr
+                        name="maxValue"
+                        format="integer" />
+                    <attr
+                        name="currentValue"
+                        format="integer" />
+                </declare-styleable>
+            </file>
+            <file
+                path="/Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegLibrary/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="SeekerStyle"
+                    parent="android:Widget" />
+            </file>
+        </source>
+        <source path="/Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegLibrary/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegLibrary/build-types/debug/res" />
+    </dataSet>
+
+</merger>

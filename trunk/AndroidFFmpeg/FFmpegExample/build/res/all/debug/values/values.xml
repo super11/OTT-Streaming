@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/res/values/constans.xml -->
+    <eat-comment />
+
+    <array name="video_file_suffixes">
+        <item>.3gp</item>
+        <item>.mp4</item>
+        <item>.avi</item>
+        <item>.mov</item>
+    </array>
+    <!-- From: file:/Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/build/exploded-bundles/AndroidFFmpegFFmpegLibraryUnspecified.aar/res/values/values.xml -->
+    <eat-comment />
+
+    <declare-styleable name="SeekerView">
+        <attr name="borderColor" format="color" />
+        <attr name="borderWidth" format="dimension" />
+        <attr name="borderPadding" format="dimension" />
+        <attr name="barColor" format="color" />
+        <attr name="barMinHeight" format="dimension" />
+        <attr name="barMinWidth" format="dimension" />
+        <attr name="maxValue" format="integer" />
+        <attr name="currentValue" format="integer" />
+    </declare-styleable>
+    <!-- From: file:/Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">OTT Multicast example</string>
+    <string name="convert">Convert Video</string>
+    <string name="could_convert_video">Could not convert video</string>
+    <string name="could_not_read_videos_directory">Could not read videos directory</string>
+    <string name="default_port">5004</string>
+    <string name="dialog_end_of_video_message">End of video occure</string>
+    <string name="dialog_end_of_video_title">End of video</string>
+    <string name="error">Error!</string>
+    <string name="hello">Welcome, OTT Multicast!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="layout_default_address">rtp://224.7.7.79</string>
+    <string name="layout_insert_address">Insert RTP address:</string>
+    <string name="layout_ok">OK!</string>
+    <string name="main_could_not_open_stream">Could not open stream</string>
+    <string name="menu_settings">Settings</string>
+    <string name="no_videos">No videos</string>
+    <string name="play_android_default">Play on Android default player</string>
+    <string name="rtsp_address">rtsp://localhost:16734/video.mp4</string>
+    <string name="select_item">Select video file</string>
+    <string name="title_activity_main">OTT Multicast</string>
+    <string name="unknown">Unknown</string>
+    <string name="videoProfile_01">        v=0\r\n
+        o=- 15422555315157642867 15422555315157642867 IN IP4 127.0.0.1\r\n
+        s=Unnamed\r\n
+        i=N/A\r\n
+        t=0 0\r\n
+        a=tool:vlc 2.0.7\r\n
+        a=recvonly\r\n
+        a=type:broadcast\r\n
+        a=charset:UTF-8\r\n
+        a=control:*\r\n
+        m=video 0 RTP/AVP 33\r\n
+        c=IN IP4 0.0.0.0\r\n
+        b=AS:5000\r\n
+        a=rtpmap:32 MPV/90000\r\n
+        a=control:track\r\n</string>
+    <!-- From: file:/Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/build/exploded-bundles/AndroidFFmpegFFmpegLibraryUnspecified.aar/res/values/values.xml -->
+    <eat-comment />
+
+    <style name="SeekerStyle" parent="android:Widget" />
+
+</resources>

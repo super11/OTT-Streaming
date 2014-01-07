@@ -1,0 +1,12 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1387393125000 3054 ec9d7f357dc8f0ab33156ee37a02690f751121b8 /Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/src/com/ffmpegtest/MainActivity.java
+1385050388000 809 706f33087db8dcdd93accd4c2a3f65dc5fa544bb /Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/src/com/ffmpegtest/helpers/RectEvaluator.java
+1385050388000 291 09d3b22d0d84daea59bbb467249c4afac2d20523 /Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/src/com/ffmpegtest/AppConstants.java
+1385391204000 2294 768f2b8e0617c962caaa9509a950e5bef35dbc5a /Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/src/com/ffmpegtest/_MainActivity.java.bkp
+1387392355000 20701 4a00fcf0aca715738e6fe0a7066930029f05481f /Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/src/com/ffmpeg/rtplay/RTSPProxy.java
+1386613772000 1232 05a411019f79e4833b11b26a73966a874e35c16a /Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/src/com/ffmpegtest/DefaultPlayer.java
+1385050388000 1347 fa68700f5c7c8cece8d2f1cff37b27c811b4006c /Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/src/com/ffmpegtest/adapter/MainAdapter.java
+1386520410000 12109 7dc1f98c465b487b1d97cf54864c2f78f93c726c /Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/src/com/ffmpegtest/VideoActivity.java
+1387392168000 1452 05c677b6a34ccda53cea066f70bf4ed4432c16f0 /Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/src/com/ffmpeg/rtplay/SocketThread.java

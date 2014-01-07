@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AndroidFFmpegFFmpegLibraryUnspecified.aar-libs-ffmpeg.jar-ffmpeg">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/FFmpegExample/build/exploded-bundles/AndroidFFmpegFFmpegLibraryUnspecified.aar/libs/ffmpeg.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

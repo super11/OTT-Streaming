@@ -1,0 +1,13 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1386168539000 197 b7d4098ca20ccac89d9a291974c106d05317176f /Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/build/res/all/debug/menu/main_activity.xml
+1386168539000 2087 ce167d19f2d7c0fc1a1644a3aec9acb2fac38956 /Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/build/res/all/debug/layout/video_surfaceview.xml
+1389094486000 2263 762a2099ab0eef54663523a7ee25b07d0bc2c16e /Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/build/res/all/debug/layout/open_video.xml
+1386168539000 821 ad701c87c37c79c241e09422452cda6eafe82567 /Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/build/res/all/debug/layout/main_list_item.xml
+1386168539000 3966 563fea87193c89cf05134fe44fa137be0449e261 /Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/build/res/all/debug/drawable-hdpi/ic_launcher.png
+1386168539000 2200 ec5b7f462aedfa5fc9457d8a8c344449c75b0999 /Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/build/res/all/debug/drawable-mdpi/ic_launcher.png
+1389094487000 3237 e6fa9e061a6f1c852d3d1f7e44174a92a1746ccb /Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/build/res/all/debug/values/values.xml
+1389094486000 362 90f9a11526519c86f37253234684739492afc626 /Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/build/res/all/debug/layout/default_player.xml
+1386168539000 622 6ebe284696ee6666770d107d044b8f921ad5d640 /Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/build/res/all/debug/layout/main_activity.xml
+1386168539000 1537 8bbbf16a8b28892fbd1f3281ed9808b1731844b6 /Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/build/res/all/debug/drawable-ldpi/ic_launcher.png

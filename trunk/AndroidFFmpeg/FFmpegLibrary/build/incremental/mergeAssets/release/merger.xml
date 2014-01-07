@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegLibrary/assets" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="/Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegLibrary/build-types/release/assets" />
+    </dataSet>
+
+</merger>

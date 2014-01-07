@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidFFmpeg.iml" filepath="$PROJECT_DIR$/AndroidFFmpeg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FFmpegExample/FFmpegExample.iml" filepath="$PROJECT_DIR$/FFmpegExample/FFmpegExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FFmpegLibrary/FFmpegLibrary.iml" filepath="$PROJECT_DIR$/FFmpegLibrary/FFmpegLibrary.iml" />
+    </modules>
+  </component>
+</project>
+

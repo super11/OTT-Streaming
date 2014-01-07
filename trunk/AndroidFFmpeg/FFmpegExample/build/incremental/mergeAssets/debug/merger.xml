@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="AndroidFFmpegFFmpegLibraryUnspecified.aar" >
+        <source path="/Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/build/exploded-bundles/AndroidFFmpegFFmpegLibraryUnspecified.aar/assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/build-types/debug/assets" />
+    </dataSet>
+
+</merger>

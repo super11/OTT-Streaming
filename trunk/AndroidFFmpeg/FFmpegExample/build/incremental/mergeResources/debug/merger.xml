@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="AndroidFFmpegFFmpegLibraryUnspecified.aar" >
+        <source path="/Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/build/exploded-bundles/AndroidFFmpegFFmpegLibraryUnspecified.aar/res" >
+            <file
+                path="/Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/build/exploded-bundles/AndroidFFmpegFFmpegLibraryUnspecified.aar/res/values/values.xml"
+                qualifiers="" >
+                <declare-styleable name="SeekerView" >
+                    <attr
+                        name="borderColor"
+                        format="color" />
+                    <attr
+                        name="borderWidth"
+                        format="dimension" />
+                    <attr
+                        name="borderPadding"
+                        format="dimension" />
+                    <attr
+                        name="barColor"
+                        format="color" />
+                    <attr
+                        name="barMinHeight"
+                        format="dimension" />
+                    <attr
+                        name="barMinWidth"
+                        format="dimension" />
+                    <attr
+                        name="maxValue"
+                        format="integer" />
+                    <attr
+                        name="currentValue"
+                        format="integer" />
+                </declare-styleable>
+
+                <style
+                    name="SeekerStyle"
+                    parent="android:Widget" />
+            </file>
+        </source>
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/res" >
+            <file
+                name="ic_launcher"
+                path="/Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/res/drawable-ldpi/ic_launcher.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="main_activity"
+                path="/Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/res/layout/main_activity.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main_list_item"
+                path="/Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/res/layout/main_list_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="open_video"
+                path="/Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/res/layout/open_video.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="video_surfaceview"
+                path="/Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/res/layout/video_surfaceview.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main_activity"
+                path="/Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/res/menu/main_activity.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/res/values/constans.xml"
+                qualifiers="" >
+                <array name="video_file_suffixes" >
+                    <item>
+.3gp
+                    </item>
+                    <item>
+.mp4
+                    </item>
+                    <item>
+.avi
+                    </item>
+                    <item>
+.mov
+                    </item>
+                </array>
+            </file>
+            <file
+                path="/Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/res/values/strings.xml"
+                qualifiers="" >
+                <string name="layout_default_address" >rtp://224.7.7.79
+                </string>
+                <string name="select_item" >Select video file
+                </string>
+                <string name="title_activity_main" >OTT Multicast
+                </string>
+                <string name="dialog_end_of_video_message" >End of video occure
+                </string>
+                <string name="default_port" >5004
+                </string>
+                <string name="dialog_end_of_video_title" >End of video
+                </string>
+                <string name="hello" >Welcome, OTT Multicast!
+                </string>
+                <string name="no_videos" >No videos
+                </string>
+                <string name="layout_ok" >OK!
+                </string>
+                <string name="convert" >Convert Video
+                </string>
+                <string name="main_could_not_open_stream" >Could not open stream
+                </string>
+                <string name="layout_insert_address" >Insert RTP address:
+                </string>
+                <string name="could_not_read_videos_directory" >Could not read videos directory
+                </string>
+                <string name="app_name" >OTT Multicast example
+                </string>
+                <string name="could_convert_video" >Could not convert video
+                </string>
+                <string name="error" >Error!
+                </string>
+                <string name="videoProfile_01" >        v=0\r\n
+        o=- 15422555315157642867 15422555315157642867 IN IP4 127.0.0.1\r\n
+        s=Unnamed\r\n
+        i=N/A\r\n
+        t=0 0\r\n
+        a=tool:vlc 2.0.7\r\n
+        a=recvonly\r\n
+        a=type:broadcast\r\n
+        a=charset:UTF-8\r\n
+        a=control:*\r\n
+        m=video 0 RTP/AVP 33\r\n
+        c=IN IP4 0.0.0.0\r\n
+        b=AS:5000\r\n
+        a=rtpmap:32 MPV/90000\r\n
+        a=control:track\r\n
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="rtsp_address" >rtsp://localhost:16734/video.mp4
+                </string>
+                <string name="unknown" >Unknown
+                </string>
+                <string name="play_android_default" >Play on Android default player
+                </string>
+                <string name="menu_settings" >Settings
+                </string>
+            </file>
+            <file
+                name="default_player"
+                path="/Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/res/layout/default_player.xml"
+                qualifiers=""
+                type="layout" />
+        </source>
+        <source path="/Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/paulovelho/Projects/Android/FFMpeg/trunk/AndroidFFmpeg/FFmpegExample/build-types/debug/res" />
+    </dataSet>
+
+</merger>
